@@ -1,0 +1,266 @@
+Report for Institution Code MVZ, Resource mvz_mammal
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 251
+Number of records retrieved in searches: 4852
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 6
+	Country: Germany ; Times: 6
+	Country: India ; Times: 4
+	Country: Mexico ; Times: 20
+	Country: Philippines ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 188
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 8
+	Date: 2014-11-03 ; Times: 25
+	Date: 2014-11-04 ; Times: 10
+	Date: 2014-11-05 ; Times: 10
+	Date: 2014-11-06 ; Times: 18
+	Date: 2014-11-07 ; Times: 11
+	Date: 2014-11-08 ; Times: 1
+	Date: 2014-11-09 ; Times: 8
+	Date: 2014-11-10 ; Times: 15
+	Date: 2014-11-11 ; Times: 6
+	Date: 2014-11-12 ; Times: 9
+	Date: 2014-11-13 ; Times: 9
+	Date: 2014-11-14 ; Times: 3
+	Date: 2014-11-15 ; Times: 2
+	Date: 2014-11-16 ; Times: 2
+	Date: 2014-11-17 ; Times: 14
+	Date: 2014-11-18 ; Times: 10
+	Date: 2014-11-19 ; Times: 18
+	Date: 2014-11-20 ; Times: 1
+	Date: 2014-11-21 ; Times: 6
+	Date: 2014-11-22 ; Times: 5
+	Date: 2014-11-23 ; Times: 7
+	Date: 2014-11-24 ; Times: 23
+	Date: 2014-11-25 ; Times: 21
+	Date: 2014-11-26 ; Times: 3
+	Date: 2014-11-27 ; Times: 2
+	Date: 2014-11-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera musculus type:specimen" ; Times: 2
+	Query: "galemys pyrenaicus" ; Times: 1
+	Query: "vulpes macrotis" ; Times: 4
+	Query: "genus:miniopterus year >= 2000 tissue:1" ; Times: 2
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin NOT cascadensis NOT ssp) mappable:1" ; Times: 1
+	Query: "mephitis mephitis estor MVZ 39047" ; Times: 1
+	Query: "mephitis mephitis estor MVZ 39041" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "mesoplodon media:1" ; Times: 4
+	Query: "stateprovince:"new mexico" specificepithet:tridecemlineatus" ; Times: 1
+	Query: "chaetodipus intermedius tissue:1" ; Times: 3
+	Query: ""Sciurus griseus" stateprovince:"California"" ; Times: 1
+	Query: "Neotomodon alstoni" ; Times: 1
+	Query: "Makalata" ; Times: 1
+	Query: "Dasypus novemcinctus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin NOT cascadensis NOT ssp)" ; Times: 2
+	Query: "barbados" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 3
+	Query: "Proechimys" ; Times: 1
+	Query: "chiroptera country:"Indonesia" institutioncode:MVZ year >= 1700 year <= 2014" ; Times: 1
+	Query: "vulpes fulva" ; Times: 1
+	Query: "Cricetomys" ; Times: 1
+	Query: "vulpes vulpes AND (macrotis)" ; Times: 1
+	Query: "mesoplodon year >= 1888 year <= 2014 media:1" ; Times: 2
+	Query: "specificepithet:bendirii genus:sorex year >= 1950 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:fumeus genus:Sorex year <= 2014" ; Times: 2
+	Query: "mountain lion" ; Times: 1
+	Query: "Mustela nivalis Egypt" ; Times: 1
+	Query: "Vulpes vulpes necator" ; Times: 1
+	Query: "Syncerus mappable:1" ; Times: 1
+	Query: "Cerdocyon thous country:"Colombia"" ; Times: 1
+	Query: "country:"ireland"" ; Times: 1
+	Query: "specificepithet:bilobatum genus:Uroderma (tissue)" ; Times: 1
+	Query: "microsciurus tissue:1" ; Times: 2
+	Query: "cebus" ; Times: 2
+	Query: "country:"Sweden"" ; Times: 1
+	Query: "class:Mammalia catalognumber:165821 institutioncode:MVZ" ; Times: 1
+	Query: "Paraechinus" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "cricetomys country:"zambia"" ; Times: 1
+	Query: "sardinops" ; Times: 1
+	Query: "specificepithet:ingens genus:dipodomys year >= 1950 year <= 2014" ; Times: 1
+	Query: "specificepithet:bendirii genus:sorex" ; Times: 1
+	Query: "euroscaptor" ; Times: 1
+	Query: "glaucomys volans" ; Times: 2
+	Query: "Nasua narica" ; Times: 1
+	Query: "Pteropus hypomelanus" ; Times: 1
+	Query: "Castor canadensis michiganensis" ; Times: 1
+	Query: "class:Mammalia taxidea taxus" ; Times: 2
+	Query: "parrot" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "viverra" ; Times: 1
+	Query: "Marmota flaviventris Oregon" ; Times: 1
+	Query: ""new mexico" "sigmodon fulviventer"" ; Times: 1
+	Query: "callosciurus (tissue) tissue:1" ; Times: 1
+	Query: "stateprovince:"Alabama" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "spermophilus tereticaudus" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 3
+	Query: "Vulpes macrotis mutica" ; Times: 2
+	Query: "Odobenus" ; Times: 3
+	Query: "Microtus californicus scirpensis" ; Times: 1
+	Query: "Dactylomys" ; Times: 1
+	Query: "Mustela nivalis Egypt type:specimen" ; Times: 1
+	Query: "myotis horsfieldii" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:bendirii genus:sorex year >= 1950 year <= 2014" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Didelphis virginiana type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "sciurus niger stateprovince:"Nebraska" mappable:1" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "herpestes" ; Times: 1
+	Query: "gibbon" ; Times: 1
+	Query: "Syncerus" ; Times: 1
+	Query: "mephitis mephitis estor" ; Times: 2
+	Query: "Microcebus murinus" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen country:"colombia"" ; Times: 1
+	Query: "black-necked" ; Times: 1
+	Query: "chiroptera type:specimen country:"Indonesia" year >= 1800 year <= 2014" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:bendirii genus:sorex" ; Times: 1
+	Query: "sylvilagus year >= 2010" ; Times: 1
+	Query: "lynx canadensis" ; Times: 2
+	Query: "cricetomys" ; Times: 5
+	Query: "marmota marmota" ; Times: 1
+	Query: "Boa" ; Times: 1
+	Query: "specificepithet:ingens year >= 1950 year <= 2014" ; Times: 1
+	Query: "class:Mammalia mesoplodon" ; Times: 7
+	Query: "Callorhinus ursinus" ; Times: 3
+	Query: "pika" ; Times: 1
+	Query: "Balaenoptera musculus type:specimen institutioncode:mvz" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Sebastes" ; Times: 1
+	Query: "Sciurus carolinensis type:specimen mappable:1 tissue:1" ; Times: 2
+	Query: "Morelia" ; Times: 1
+	Query: "Myotis austroriparius mappable:1" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 4
+	Query: "Greenwich" ; Times: 1
+	Query: "Canis familiaris" ; Times: 1
+	Query: "county:"orange" stateprovince:"California" specificepithet:MEXICANA genus:CHOERONYCTERIS" ; Times: 1
+	Query: "kit fox" ; Times: 2
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "holotype genus:Ctenomys class:Mammalia institutioncode:MVZ" ; Times: 1
+	Query: "sciurus niger stateprovince:"texas" mappable:1" ; Times: 1
+	Query: "mamba" ; Times: 1
+	Query: "specificepithet:araneus genus:Sorex mappable:1" ; Times: 1
+	Query: ""Sciurus griseus"" ; Times: 2
+	Query: "Mesomys" ; Times: 1
+	Query: "mellivora" ; Times: 2
+	Query: "class:Mammalia Balaenoptera acutorostrata MVZ" ; Times: 3
+	Query: "class:Mammalia Puma concolor" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "phacochoerus" ; Times: 2
+	Query: "xerospermophilus perotensis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Vulpes vulpes necator AND (NOT patwin)" ; Times: 1
+	Query: "mesomys tissue:1" ; Times: 2
+	Query: "stateprovince:"Puebla" country:"Mexico" year <= 2010" ; Times: 2
+	Query: "Marmota olympus" ; Times: 2
+	Query: ""Lama guanicoe"" ; Times: 2
+	Query: "Didelphis virginia" ; Times: 2
+	Query: "owl feathers" ; Times: 1
+	Query: "sylvilagus bachmani" ; Times: 1
+	Query: "mandrillus sphinx" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "Microtus pennsylvanicus provectus" ; Times: 1
+	Query: "vulpes vulpes patwin" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "tasmania" ; Times: 1
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin)" ; Times: 1
+	Query: "specificepithet:ingens" ; Times: 1
+	Query: "canis latrans ochropus" ; Times: 1
+	Query: "homo sapiens" ; Times: 3
+	Query: "Galemys pyrenaicus" ; Times: 3
+	Query: "microtus pennsylvanicus nigrans" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "ictidomys tridecemlineatus new mexico" ; Times: 1
+	Query: ""Doane Valley"" ; Times: 1
+	Query: "genus:miniopterus tissue:1" ; Times: 2
+	Query: "chiroptera type:specimen (palo verde)" ; Times: 1
+	Query: "genus:hodomys" ; Times: 1
+	Query: "microsciurus (tissue) tissue:1" ; Times: 1
+	Query: "MVZ 39042" ; Times: 2
+	Query: "type:specimen specificepithet:parva genus:Cryptotis year <= 2014" ; Times: 1
+	Query: "antrozous pallidus (161083 OR 22093 OR 109494 OR 13302 OR 20724 OR 27325)" ; Times: 1
+	Query: "Nepal" ; Times: 1
+	Query: "type:specimen genus:lynx (fur) tissue:1" ; Times: 1
+	Query: "cricetomys tissue:1" ; Times: 1
+	Query: "Didelphis tissue:1" ; Times: 1
+	Query: "moloch" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1 tissue:1" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 3
+	Query: "Marmota flaviventris Klamath Oregon" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:perotis genus:Eumops" ; Times: 1
+	Query: "guy 05" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "vulpes vulpes fulva" ; Times: 1
+	Query: "genus:Leopardus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: ""Vampyrum spectrum" (skeleton)" ; Times: 1
+	Query: "cobia" ; Times: 1
+	Query: "genus:odobenus" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "labradorius" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 2
+	Query: "marmota flaviventris stateprovince:"California"" ; Times: 1
+	Query: ""martes pennanti" mappable:1" ; Times: 1
+	Query: "Neacomys" ; Times: 2
+	Query: "dog" ; Times: 1
+	Query: "suricata" ; Times: 6
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin NOT cascadensis)" ; Times: 1
+	Query: "type:specimen genus:lynx tissue:1" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "class:Mammalia institutioncode:MVZ" ; Times: 2
+	Query: "cricetomys (tissue)" ; Times: 1
+	Query: "ovis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4427
+Total number of records retrieved from searches: 92098
+Number of download events that retrieved data from the resource: 754
+Total number of records downloaded: 893039
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4427
+Total number of records retrieved from searches: 92098
+Number of download events that retrieved data from the resource: 901
+Total number of records downloaded: 1084855
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
