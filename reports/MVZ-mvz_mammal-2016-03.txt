@@ -1,0 +1,268 @@
+Report for Institution Code MVZ, Resource mvz_mammal
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 226
+Number of records retrieved in searches: 6401
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 11
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 6
+	Country: Russia ; Times: 11
+	Country: United States ; Times: 165
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 6
+	Date: 2016-03-02 ; Times: 21
+	Date: 2016-03-10 ; Times: 30
+	Date: 2016-03-01 ; Times: 17
+	Date: 2016-03-08 ; Times: 19
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 14
+	Date: 2016-03-14 ; Times: 10
+	Date: 2016-03-04 ; Times: 17
+	Date: 2016-03-05 ; Times: 11
+	Date: 2016-03-11 ; Times: 43
+	Date: 2016-03-03 ; Times: 19
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota broweri" ; Times: 2
+	Query: "Tuxtlas stateprovince:&#34;Veracruz&#34; institutioncode:MVZ mappable:1" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "specificepithet:bachmani genus:sylvilagus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:lar genus:hylobates" ; Times: 2
+	Query: "Ichneumia" ; Times: 2
+	Query: "distance(location,geopoint(35.9602229692967,-117.61962890625))&lt;11889" ; Times: 2
+	Query: "95588" ; Times: 1
+	Query: "catalognumber:39083 institutioncode:MVZ" ; Times: 2
+	Query: "notiosorex crawfordi nevada" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Thomomys mazama" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "N. McIntyre" ; Times: 1
+	Query: "Gerbillurus" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "pithecia" ; Times: 1
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "gregg" ; Times: 2
+	Query: "cebus capucinus" ; Times: 1
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "Microgale cowani" ; Times: 1
+	Query: "urocitellus stateprovince:&#34;California&#34; (townsendii mollis)" ; Times: 1
+	Query: "genus:Oryzomys institutioncode:MVZ" ; Times: 4
+	Query: "specificepithet:ciliolabrum genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "alouatta fusca" ; Times: 2
+	Query: "genus:Tamias stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "lemniscomys griselda" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Kellogg county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Geomys" ; Times: 1
+	Query: "237 stateprovince:&#34;Puntarenas&#34; country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Colton Well" ; Times: 1
+	Query: "Lasiurus borealis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:civettictis family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:californicus genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "urocitellus mollis" ; Times: 2
+	Query: "alouatta" ; Times: 1
+	Query: "vulpes velox" ; Times: 4
+	Query: "urocitellus stateprovince:&#34;Utah&#34; (townsendii mollis)" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "euryoryzomys macconnelli" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "calvert" ; Times: 1
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "family:procyonidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Andalgalomys institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "chaetodipus penicillatus stephensi" ; Times: 1
+	Query: "Canis lupus type:specimen (Alaska Wales Prince)" ; Times: 1
+	Query: "specificepithet:aureus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "family:felidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "canis latrans Death Valley" ; Times: 1
+	Query: "catalognumber:39084 institutioncode:MVZ" ; Times: 1
+	Query: "&#34;Louise Kellogg&#34; county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:primates locality:Puerto del Triunfo stateprovince:&#34;Usulatan&#34; country:&#34;el salvador&#34;" ; Times: 1
+	Query: "Thomomys mazama couchi" ; Times: 1
+	Query: "desert tortoise" ; Times: 1
+	Query: "urocitellus mollis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:nyctinomops family:molossidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:primates locality:lake olomega stateprovince:&#34;san miguel&#34; country:&#34;el salvador&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:arctos stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "locality:Alvear country:&#34;Argentina&#34;" ; Times: 1
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "tamias alpinus type:specimen institutioncode:MVZ" ; Times: 2
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "tamandua mexicana tissue:1" ; Times: 1
+	Query: "akodon affinis" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "Tuxtla stateprovince:&#34;Veracruz&#34; institutioncode:MVZ mappable:1" ; Times: 2
+	Query: "monterrey" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "parvus mappable:1 tissue:1" ; Times: 2
+	Query: "WILLETT BARBARA ISLAND" ; Times: 1
+	Query: "spermophilus mollis" ; Times: 3
+	Query: "Galictis vittata" ; Times: 1
+	Query: "chaetodipus fallax" ; Times: 2
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thomomys idahoensis" ; Times: 2
+	Query: "euryoryzomys" ; Times: 2
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 2
+	Query: "golden eagle" ; Times: 2
+	Query: "116352" ; Times: 2
+	Query: "Chodsigoa" ; Times: 1
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "hylobates lar lar" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "urocitellus stateprovince:&#34;Nevada&#34; (townsendii mollis)" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "neotoma lepida colorado" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "lama glama" ; Times: 2
+	Query: "notiosorex baja california sur" ; Times: 2
+	Query: "family:Heteromyidae year &gt;= 1850 year &lt;= 1930 mappable:1 tissue:1" ; Times: 1
+	Query: "neotoma lepida utah" ; Times: 3
+	Query: "diphylla" ; Times: 2
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;North Dakota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "parvus AND (parvus) mappable:1 tissue:1" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Indian Canyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Holochilus locality:Luque" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "order:rodentia country:&#34;kenya&#34;" ; Times: 1
+	Query: "endangered" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "mankins stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "spermophilus washingtoni" ; Times: 1
+	Query: "genus:Phyllotis institutioncode:MVZ" ; Times: 1
+	Query: "mankins" ; Times: 1
+	Query: "Dipodomys ingens year &gt;= 1800 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "genus:felis family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Myotis keaysi tissue:1" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "playa escondida" ; Times: 1
+	Query: "type:specimen (A.B. Howell) year &gt;= 1905 year &lt;= 1917" ; Times: 1
+	Query: "osborne" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 1
+	Query: "genus:spilogale family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 1950 mappable:1 tissue:1" ; Times: 1
+	Query: "family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "genus:Holochilus locality:CENAP/IBAMA" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 6
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "order:primates locality:Aguaruna stateprovince:&#34;amazonas&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "genus:Auliscomys institutioncode:MVZ" ; Times: 1
+	Query: "type:specimen recordedby:mccarty" ; Times: 1
+	Query: "catalognumber:193823" ; Times: 1
+	Query: "genus:pipistrellus family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "spermophilus saturatus" ; Times: 1
+	Query: "witch institutioncode:MVZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 230 download events in this period)
+Total number of records downloaded: 1364965
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: United Kingdom ; Times: 3
+	Country: Chile ; Times: 1
+	Country: United States ; Times: 53
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 5
+	Date: 2016-03-08 ; Times: 7
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 16
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "ochotona rufescens" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "babyrousa" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Microdipodops locality:Halleck" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "Indian Cove stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "soriculus" ; Times: 1
+	Query: "urocitellus mollis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Babyrousa" ; Times: 2
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
