@@ -1,0 +1,259 @@
+Report for Institution Code MVZ, Resource mvz_mammal
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 277
+Number of records retrieved in searches: 3604
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 17
+	Country: South Africa ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 206
+	Country: China ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 13
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 52
+	Date: 2017-11-29 ; Times: 32
+	Date: 2017-11-26 ; Times: 27
+	Date: 2017-11-27 ; Times: 88
+	Date: 2017-11-24 ; Times: 25
+	Date: 2017-11-25 ; Times: 17
+	Date: 2017-11-30 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "brucepattersonius MVZ" ; Times: 1
+	Query: "specificepithet:leucotis genus:sigmodon country:&#34;mexico&#34;" ; Times: 2
+	Query: "nycticeius humeralis" ; Times: 3
+	Query: "specificepithet:ursinus genus:Vombatus mappable:1" ; Times: 1
+	Query: "genus:Diceros" ; Times: 1
+	Query: "peromyscus oaxacensis" ; Times: 1
+	Query: "MVZ 105662" ; Times: 1
+	Query: "genus:ursus stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 2
+	Query: "MVZ 203919" ; Times: 1
+	Query: "vntype:specimen class:Mammalia catalognumber:12642" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Zachary Hanna 287" ; Times: 1
+	Query: "Zachary Hanna 286" ; Times: 1
+	Query: "SKIN 811992" ; Times: 2
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "peromyscus beatae" ; Times: 1
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:lagopus pribilofensis genus:Alopex preparations:skeleton" ; Times: 1
+	Query: "MVZ 207215" ; Times: 2
+	Query: "ziphius" ; Times: 3
+	Query: "&#34;peromyscus levipes&#34;" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 9
+	Query: "Zachary R. Hanna 281" ; Times: 1
+	Query: "Zachary R. Hanna 282" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "canis lupus california" ; Times: 1
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 4
+	Query: "genus:Myotis county:&#34;Beaverhead&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:Romerolagus" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34; institutioncode:MVZ" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "panthera onca" ; Times: 1
+	Query: "suricata" ; Times: 1
+	Query: "genus:crocidura country:&#34;kenya&#34;" ; Times: 2
+	Query: "peromyscus evides" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 6
+	Query: "family:gliridae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Zachary R. Hanna 78" ; Times: 1
+	Query: "specificepithet:parvipes genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "ziphiidae" ; Times: 1
+	Query: "specificepithet:peruanus genus:Ctenomys" ; Times: 1
+	Query: "Myrmecophagidae skeleton tridactyla" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34;" ; Times: 1
+	Query: "galerella" ; Times: 1
+	Query: "Eidolon" ; Times: 1
+	Query: "verecundus" ; Times: 1
+	Query: "specificepithet:bison genus:bison mappable:1" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Cynomys gunnisoni skeleton" ; Times: 2
+	Query: "Elephas maximus India genus:Elephas institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucas genus:delphinapterus hassex:1" ; Times: 3
+	Query: "sturnira luisi" ; Times: 1
+	Query: "Myrmecophagidae skeleton M. tridactyla" ; Times: 2
+	Query: "(isle royale) year &gt;= 1850 year &lt;= 1930" ; Times: 1
+	Query: "mvz procavia capensis" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "peromyscus polius" ; Times: 1
+	Query: "necromys punctulatus" ; Times: 2
+	Query: "specificepithet:peruanus" ; Times: 2
+	Query: "oxymycterus MVZ" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops country:&#34;United States&#34;" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "&#34;canis lupus&#34; AND california" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "MVZ 187733" ; Times: 1
+	Query: "MVZ 149784" ; Times: 1
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:leucas genus:delphinapterus" ; Times: 4
+	Query: "peromyscus simulus" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera mappable:1" ; Times: 1
+	Query: "Bassaricyon gabbii" ; Times: 5
+	Query: "Tayassuidae Tayassu tajacu" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "specificepithet:sociabilis genus:Ctenomys" ; Times: 1
+	Query: "diclidurus" ; Times: 4
+	Query: "peromyscus aztecus" ; Times: 5
+	Query: "35377" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes mappable:1" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "Tayassuidae tayassu tajacu skeleton" ; Times: 1
+	Query: "peromyscus aztecus mappable:1" ; Times: 1
+	Query: "genus:glaucomys county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:gravipes genus:Dipodomys" ; Times: 1
+	Query: "scapteromys MVZ" ; Times: 1
+	Query: "peromyscus gratus" ; Times: 1
+	Query: "thaptomys MVZ" ; Times: 1
+	Query: "specificepithet:camelopardalis genus:Giraffa mappable:1" ; Times: 1
+	Query: "specificepithet:opimus genus:Ctenomys" ; Times: 1
+	Query: "genus:glaucomys county:&#34;fresno&#34;" ; Times: 1
+	Query: "genus:Neacomys" ; Times: 1
+	Query: "canis latrans skeleton" ; Times: 2
+	Query: "eagle creek county:&#34;Trinity&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tapiridae" ; Times: 1
+	Query: "isle royale" ; Times: 2
+	Query: "Elephas maximus India" ; Times: 1
+	Query: "specificepithet:fuscomurina genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "berlandieri specificepithet:hispidus genus:sigmodon country:&#34;mexico&#34;" ; Times: 5
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "mustela nigripes" ; Times: 12
+	Query: "hippocamelus antisensis" ; Times: 2
+	Query: "specificepithet:macrotis genus:Nyctinomops country:&#34;mexico&#34;" ; Times: 1
+	Query: "196376" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "peromyscus levipes" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "alces" ; Times: 1
+	Query: "MVZ 189112" ; Times: 1
+	Query: "akodon budini" ; Times: 2
+	Query: "20867 genus:peromyscus" ; Times: 1
+	Query: "puma concolor skeleton" ; Times: 1
+	Query: "lenoxus MVZ" ; Times: 1
+	Query: "genus:Elephas institutioncode:MVZ" ; Times: 3
+	Query: "Uzbekistan" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 4
+	Query: "reithrodontomys microdon" ; Times: 2
+	Query: "order:artiodactyla country:&#34;kenya&#34;" ; Times: 1
+	Query: "Mustelidae Gulo gulo" ; Times: 1
+	Query: "Equidae skeleton equus" ; Times: 2
+	Query: "Galerella" ; Times: 2
+	Query: "47996" ; Times: 1
+	Query: "recordedby:J. C. Thompson" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus mappable:1" ; Times: 1
+	Query: "family:viverridae order:carnivora" ; Times: 2
+	Query: "Pilosa" ; Times: 2
+	Query: "specificepithet:griseus genus:sciurus county:&#34;fresno&#34;" ; Times: 1
+	Query: "peromyscus sacarensis" ; Times: 1
+	Query: "peromyscus aztecus year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "MVZ 187566" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 4
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus mappable:1" ; Times: 1
+	Query: "MVZ 149803" ; Times: 1
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 2
+	Query: "142160" ; Times: 1
+	Query: "genus:tamiasciurus county:&#34;fresno&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chiropodomys" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus class:mammalia mappable:1" ; Times: 1
+	Query: "&#34;peromyscus beatae&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "10502" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "specificepithet:lagopus pribilofensis genus:Alopex" ; Times: 3
+	Query: "necromys MVZ" ; Times: 2
+	Query: "Panthera tigris skin" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "SAMA" ; Times: 1
+	Query: "17013 tissue" ; Times: 1
+	Query: "peromyscus utahensis" ; Times: 2
+	Query: "Zaedyus pichiy" ; Times: 9
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "wolves" ; Times: 3
+	Query: "mustela vison stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1101 download events in this period)
+Total number of records downloaded: 43502
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 19
+	Country: Argentina ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 3
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 13
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 2
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "specificepithet:peruanus genus:Ctenomys" ; Times: 1
+	Query: "peromyscus oaxacensis" ; Times: 1
+	Query: "peromyscus rowleyi" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 1
+	Query: "peromyscus aztecus year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:gravipes genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "peromyscus utahensis" ; Times: 1
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "peromyscus sacarensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "oxymycterus MVZ" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "necromys MVZ" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1910 year &lt;= 1920 institutioncode:MVZ" ; Times: 1
+	Query: "peromyscus evides" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+
+
+End of report.
