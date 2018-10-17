@@ -1,0 +1,959 @@
+Report for Institution Code MVZ, Resource mvz_mammal
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1680
+Number of records retrieved in searches: 32495
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Canada ; Times: 9
+	Country: Unknown ; Times: 13
+	Country: Lithuania ; Times: 10
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 8
+	Country: Slovakia ; Times: 2
+	Country: Peru ; Times: 10
+	Country: Argentina ; Times: 9
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 2
+	Country: El Salvador ; Times: 9
+	Country: Czechia ; Times: 1
+	Country: Papua New Guinea ; Times: 1
+	Country: Guatemala ; Times: 12
+	Country: China ; Times: 15
+	Country: Chile ; Times: 61
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 75
+	Country: United States ; Times: 1189
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 10
+	Country: Mexico ; Times: 169
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Colombia ; Times: 8
+	Country: Sri Lanka ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 12
+	Date: 2018-07-01 ; Times: 29
+	Date: 2018-07-02 ; Times: 115
+	Date: 2018-07-03 ; Times: 152
+	Date: 2018-07-28 ; Times: 13
+	Date: 2018-07-29 ; Times: 10
+	Date: 2018-07-08 ; Times: 19
+	Date: 2018-07-09 ; Times: 24
+	Date: 2018-07-04 ; Times: 50
+	Date: 2018-07-05 ; Times: 41
+	Date: 2018-07-06 ; Times: 42
+	Date: 2018-07-21 ; Times: 57
+	Date: 2018-07-26 ; Times: 44
+	Date: 2018-07-27 ; Times: 45
+	Date: 2018-07-24 ; Times: 172
+	Date: 2018-07-25 ; Times: 49
+	Date: 2018-07-13 ; Times: 53
+	Date: 2018-07-12 ; Times: 113
+	Date: 2018-07-11 ; Times: 39
+	Date: 2018-07-10 ; Times: 103
+	Date: 2018-07-17 ; Times: 52
+	Date: 2018-07-16 ; Times: 68
+	Date: 2018-07-15 ; Times: 19
+	Date: 2018-07-14 ; Times: 19
+	Date: 2018-07-31 ; Times: 34
+	Date: 2018-07-30 ; Times: 27
+	Date: 2018-07-19 ; Times: 62
+	Date: 2018-07-18 ; Times: 33
+	Date: 2018-07-22 ; Times: 55
+	Date: 2018-07-23 ; Times: 58
+	Date: 2018-07-20 ; Times: 71
+
+List of queries that retrieved data from the resource: 
+	Query: "skeleton vntype:specimen lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Pudu puda" ; Times: 2
+	Query: "Geronimo Baja" ; Times: 2
+	Query: "133024" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1920 year &lt;= 1929 institutioncode:MVZ" ; Times: 2
+	Query: "44690" ; Times: 1
+	Query: "genus:tolypeutes preparations:skeleton" ; Times: 2
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "genus:Eptesicus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Michigan&#34; OR &#34;Minnesota&#34; OR &#34;Wisconsin&#34; preparations:skin" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 4
+	Query: "L.E. Allen" ; Times: 1
+	Query: "macropus rufogriseus 1486" ; Times: 1
+	Query: "vntype:specimen specificepithet:sechurae genus:Pseudalopex family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil )" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "scotophilus leucogaster" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "vntype:specimen genus:pudu institutioncode:MVZ" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "vntype:specimen specificepithet:alces genus:alces institutioncode:MVZ" ; Times: 1
+	Query: "zoo vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1900 year &lt;= 1909 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 5
+	Query: "MVZ 207859" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "Pemberton Island NOT BAiley" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:MVZ" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex (skull OR skeleton) AND (NOT fossil) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "74358" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:MVZ" ; Times: 1
+	Query: "185774" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1910 year &lt;= 1919 institutioncode:MVZ" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 146
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 2
+	Query: "panthera onca" ; Times: 3
+	Query: "158094" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 2
+	Query: "155904" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 65
+	Query: "Microtus richardsoni specificepithet:richardsoni genus:Microtus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "92002" ; Times: 1
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34; institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:aeta genus:hylomyscus" ; Times: 1
+	Query: "specificepithet:AURICULUS genus:MYOTIS" ; Times: 1
+	Query: "Sorex monticola" ; Times: 2
+	Query: "13018" ; Times: 1
+	Query: "166417" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 2
+	Query: "genus:Zapus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Hylaeamys perenensis " ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34;" ; Times: 2
+	Query: "Ctenomys dorbignyi" ; Times: 3
+	Query: "Caenolestes" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2000 year &lt;= 2009 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "WM 3" ; Times: 1
+	Query: "genus:Scalopus stateprovince:Kentucky" ; Times: 1
+	Query: "locality:mill valley county:&#34;marin&#34; year &gt;= 1900 year &lt;= 1915" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1970 year &lt;= 1979 institutioncode:MVZ" ; Times: 1
+	Query: "Ctenomys haigi" ; Times: 4
+	Query: "Myotis leibii" ; Times: 2
+	Query: "Proechimys cuvieri" ; Times: 1
+	Query: "Pseudalopex griseus" ; Times: 1
+	Query: "country:Ecuador scientificname:Cuniculus paca " ; Times: 2
+	Query: "specificepithet:latrans genus:Canis (Washington OR Oregon OR Idaho OR Montana OR Dakota) year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2000 year &lt;= 2009 institutioncode:MVZ" ; Times: 1
+	Query: "Ototylomys Chiapensis" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis county:&#34;Santa Barbara&#34;" ; Times: 3
+	Query: "tamias alpinus" ; Times: 2
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34; institutioncode:MVZ" ; Times: 2
+	Query: "9524" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:lynx institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "vntype:specimen genus:genetta institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1900 year &lt;= 1909 institutioncode:MVZ" ; Times: 1
+	Query: "Panthera uncia" ; Times: 4
+	Query: "specificepithet:venaticus genus:Speothos (captive OR zoo)" ; Times: 1
+	Query: "genus:Parascalops stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "7373 F" ; Times: 1
+	Query: "catalognumber:186162 institutioncode:MVZ" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:MVZ" ; Times: 1
+	Query: "lontra canadensis sonora" ; Times: 1
+	Query: "country:&#34;kenya&#34; (Mara river)" ; Times: 2
+	Query: "genus:coendou institutioncode:MVZ" ; Times: 1
+	Query: "53355" ; Times: 1
+	Query: "Proechimys pattoni" ; Times: 2
+	Query: "148193" ; Times: 1
+	Query: "616737" ; Times: 1
+	Query: "locality:San Mateo Creek county:&#34;San Mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:235320 institutioncode:MVZ" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris argentina" ; Times: 1
+	Query: "tayassu pecari" ; Times: 4
+	Query: "Proechimys brevicauda" ; Times: 3
+	Query: "locality:mill valley county:&#34;marin&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Transandinomys talamancae " ; Times: 2
+	Query: "genus:mus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "catalognumber:234147 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:megacephalus genus:microdipodops county:&#34;washoe&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "specificepithet:griseus genus:Pseudalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "dipodomys stephensi" ; Times: 2
+	Query: "family:Hystricidae hastissue:1" ; Times: 4
+	Query: "vntype:specimen genus:lutra institutioncode:MVZ" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "vntype:specimen genus:nasua institutioncode:MVZ" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "genus:oryx institutioncode:MVZ" ; Times: 2
+	Query: "344666" ; Times: 1
+	Query: "genus:capra institutioncode:MVZ" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "MVZ 183291" ; Times: 2
+	Query: "genus:cuniculus institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:griseus genus:Pseudalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "peromyscus levipes" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; (skull OR skeleton)" ; Times: 1
+	Query: "locality:Romero Creek institutioncode:MVZ" ; Times: 1
+	Query: "121463" ; Times: 1
+	Query: "microtus californicus stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "family:Molossidae country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "zoo vntype:specimen specificepithet:venaticus genus:Speothos (skull OR skeleton)" ; Times: 1
+	Query: "MVZ 202264" ; Times: 2
+	Query: "specificepithet:griseus genus:Pseudalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 75
+	Query: "MVZ 191735" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 2
+	Query: "catalognumber:86690 institutioncode:MVZ" ; Times: 2
+	Query: "29884" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 2
+	Query: "Xeronycteris vieirai" ; Times: 1
+	Query: "Puma concolor" ; Times: 13
+	Query: "wilson 1855" ; Times: 1
+	Query: "specificepithet:wiedii genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "MVZ 214814" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 2
+	Query: "specificepithet:lepida genus:neotoma stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Delphinapterus" ; Times: 1
+	Query: "lengthtype:snout-vent length range" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "catalognumber:226115 institutioncode:MVZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:culpaeus genus:Pseudalopex (skull OR skeleton)" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:microtis genus:Atelocynus (skull OR skeleton) AND (NOT fossil) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "kupreanof genus:microtus" ; Times: 2
+	Query: "americanus clarke county" ; Times: 1
+	Query: "county:&#34;monterey&#34; recordedby:russell year &gt;= 1935 year &lt;= 1941" ; Times: 1
+	Query: "block island specificepithet:pennsylvanicus genus:microtus institutioncode:MVZ" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Minnesota OR Michigan preparations:skin" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:235689 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:sechurae genus:Pseudalopex family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "genus:Zapus county:&#34;Whatcom&#34;" ; Times: 3
+	Query: "genus:Parascalops" ; Times: 1
+	Query: "Mustela year:2010" ; Times: 67
+	Query: "genus:hystrix institutioncode:MVZ" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "14764" ; Times: 1
+	Query: "Neotoma (Red Mountain) hastissue:1" ; Times: 1
+	Query: "capricornis" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:MVZ" ; Times: 1
+	Query: "Proechimys simonsi" ; Times: 1
+	Query: "specificepithet:bachmani genus:sylvilagus institutioncode:MVZ" ; Times: 2
+	Query: "midas" ; Times: 1
+	Query: "genus:Calomys stateprovince:&#34;Ancash&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "catalognumber:159968 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "89544" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1970 year &lt;= 1979 institutioncode:MVZ" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "centronycteris centralis" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys quadruplicatus " ; Times: 1
+	Query: "specificepithet:microtis genus:Atelocynus (skull OR skeleton) AND (NOT fossil)" ; Times: 1
+	Query: "34490" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen genus:didelphis institutioncode:MVZ" ; Times: 5
+	Query: "19982" ; Times: 1
+	Query: "genus:euphractus preparations:skeleton" ; Times: 16
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "57433" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "MVZ 202229" ; Times: 2
+	Query: "genus:mustela country:&#34;Mexico&#34;" ; Times: 1
+	Query: "canis latrans mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes institutioncode:MVZ" ; Times: 1
+	Query: "manis linneaus" ; Times: 1
+	Query: "Chiroderma improvisum" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 4
+	Query: "Mazama americana" ; Times: 4
+	Query: "vntype:specimen genus:hippotragus institutioncode:MVZ" ; Times: 1
+	Query: "121036" ; Times: 1
+	Query: "catalognumber:223227 institutioncode:MVZ" ; Times: 2
+	Query: "136338" ; Times: 1
+	Query: "Eumops Costa Rica" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "specificepithet:aureus genus:canis institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:226114 institutioncode:MVZ" ; Times: 2
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 1
+	Query: "country:Ecuador scientificname:Puma concolor " ; Times: 3
+	Query: "sorex veraepacis" ; Times: 3
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "90043" ; Times: 4
+	Query: "Proechimys quadruplicatus" ; Times: 5
+	Query: "genus:marmota county:&#34;washoe&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 5
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "MVZ 208032" ; Times: 1
+	Query: "MVZ 208036" ; Times: 2
+	Query: "specificepithet:aquaticus genus:sylvilagus institutioncode:MVZ" ; Times: 1
+	Query: "admiralty specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "genus:Dugong preparations:Skull" ; Times: 2
+	Query: "14616" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1980 year &lt;= 1989 institutioncode:MVZ" ; Times: 1
+	Query: "EAR 3286" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:marmota stateprovince:&#34;nevada&#34;" ; Times: 25
+	Query: "Calomyscus bailwardi" ; Times: 3
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; preparations: &#34;skin&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Tursiops truncatus " ; Times: 2
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "marker stateprovince:&#34;sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Michigan&#34; preparations:skin" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Michigan OR Minnesota preparations:skin" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "19663" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "genus:Calomys stateprovince:&#34;Ancash&#34;" ; Times: 3
+	Query: "catalognumber:200503 institutioncode:Mvz" ; Times: 2
+	Query: "Rattus skeleton" ; Times: 2
+	Query: "priodontes" ; Times: 2
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 3
+	Query: "MVZ 207835" ; Times: 2
+	Query: "MVZ 207832" ; Times: 2
+	Query: "Aconaemys chile" ; Times: 1
+	Query: "131302" ; Times: 1
+	Query: "139124" ; Times: 2
+	Query: "nelsoni Kern" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kane&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:MVZ" ; Times: 1
+	Query: "Lagostomus maximus" ; Times: 1
+	Query: "MVZ 207842" ; Times: 2
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "MVZ 196031" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919 institutioncode:MVZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 4
+	Query: "peromyscus aztecus" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "230183" ; Times: 1
+	Query: "MVZ 207846" ; Times: 2
+	Query: "catalognumber:235323 institutioncode:MVZ" ; Times: 2
+	Query: "genus:Parascalops stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "121394" ; Times: 1
+	Query: "121395" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "order:Carnivora country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Canis latrans mappable:1" ; Times: 4
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "sergief genus:microtus class:mammalia" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;Mexico&#34; (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "MVZ 196030" ; Times: 1
+	Query: "MVZ 207843" ; Times: 2
+	Query: "MVZ 196032" ; Times: 2
+	Query: "specificepithet:attwateri genus:Peromyscus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "MVZ 207844" ; Times: 2
+	Query: "MVZ 207845" ; Times: 1
+	Query: "339244" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "specificepithet:rufus genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "Microtus Californicus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:littoralis genus:Urocyon (skull OR skeleton)" ; Times: 2
+	Query: "specificepithet:griseus genus:Pseudalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "229410" ; Times: 2
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "33717" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Panthera onca " ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:panthera institutioncode:MVZ" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 2
+	Query: "miniopterus inflatus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1990 year &lt;= 1999 institutioncode:MVZ" ; Times: 3
+	Query: "32863" ; Times: 2
+	Query: "genus:Corynorhinus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "catalognumber:174824 institutioncode:MVZ" ; Times: 2
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "vntype:specimen specificepithet:alleni genus:lepus institutioncode:MVZ" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "Pemberton Island" ; Times: 2
+	Query: "specificepithet:procyonoides genus:Nyctereutes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:venaticus genus:Speothos (skull OR skeleton) AND (NOT captive NOT zoo)" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "Ototylomys" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "1196 p" ; Times: 1
+	Query: "synaptomys cooperi" ; Times: 2
+	Query: "vntype:specimen family:Canidae continent:Australia" ; Times: 1
+	Query: "Microtus californicus stephensi" ; Times: 1
+	Query: "Lontra felina" ; Times: 3
+	Query: "specificepithet:Boylii county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:chama genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Brachylagus" ; Times: 1
+	Query: "phyllomys pattoni" ; Times: 1
+	Query: "vntype:specimen genus:lontra institutioncode:MVZ" ; Times: 1
+	Query: "genus:Metachirus institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939 institutioncode:MVZ" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929 institutioncode:MVZ" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "MVZ 197610" ; Times: 1
+	Query: "genus:castor institutioncode:MVZ" ; Times: 2
+	Query: "MVZ 208100" ; Times: 2
+	Query: "65253" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; OR &#34;Michigan&#34; preparations:skin" ; Times: 2
+	Query: "vntype:specimen specificepithet:thibetanus genus:ursus institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:audubonii genus:sylvilagus institutioncode:MVZ" ; Times: 3
+	Query: "Mesomys hispidus" ; Times: 2
+	Query: "160666" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:MVZ" ; Times: 1
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "saguinus imperator" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "22740" ; Times: 1
+	Query: "13625" ; Times: 1
+	Query: "genus:cervus institutioncode:MVZ" ; Times: 3
+	Query: "Charles R Lamb" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939 institutioncode:MVZ" ; Times: 1
+	Query: "genus:anomalurus" ; Times: 2
+	Query: "MVZ 171339" ; Times: 1
+	Query: "vntype:specimen genus:felis institutioncode:MVZ" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "specificepithet:zerda genus:vulpes institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:121016" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "EAR 5078" ; Times: 1
+	Query: "158960" ; Times: 1
+	Query: "catalognumber:174830 institutioncode:MVZ" ; Times: 2
+	Query: "catalognumber:226113 institutioncode:MVZ" ; Times: 2
+	Query: "Natividad mammal" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Taxidea" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2010 year &lt;= 2018 institutioncode:MVZ" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Miniopterus africanus" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "vntype:specimen genus:oryx institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:ursus institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:emini genus:cricetomys" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:burt" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "207771" ; Times: 1
+	Query: "MVZ 114767" ; Times: 2
+	Query: "catalognumber:71418 institutioncode:MVZ" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1890 year &lt;= 1899 institutioncode:MVZ" ; Times: 1
+	Query: "Bakersfield Swarth" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "104695" ; Times: 1
+	Query: "catalognumber:86655 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;Mexico&#34; (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939 institutioncode:MVZ" ; Times: 1
+	Query: "Cuniculus paca brazil" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (skull OR skeleton)" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "Taxidea California" ; Times: 6
+	Query: "vntype:specimen genus:mazama institutioncode:MVZ" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:Michigan OR Minnesota OR Wisconsin preparations:skin" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Trichechus inunguis" ; Times: 13
+	Query: "Proechimys cuvieri acre" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929 institutioncode:MVZ" ; Times: 1
+	Query: "&#34;lost horse&#34;" ; Times: 2
+	Query: "catalognumber:234827 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 202217" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 2
+	Query: "genus:hippotragus institutioncode:MVZ" ; Times: 1
+	Query: "(Blair county pennsylvania)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "class:mammalia recordedby:dixon year &gt;= 1910 year &lt;= 1910 month &gt;= 2 month &lt;= 5 institutioncode:MVZ" ; Times: 1
+	Query: "macropus rufogriseus 1694" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:MVZ" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "karnataka" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:griseus genus:Pseudalopex family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil )" ; Times: 1
+	Query: "&#34;Harris County&#34;" ; Times: 2
+	Query: "skull vntype:specimen specificepithet:hemionus genus:Odocoileus institutioncode:MVZ" ; Times: 7
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Michigan&#34; OR &#34;Wisconsin&#34; preparations:skin" ; Times: 1
+	Query: "neotoma lepida colorado" ; Times: 1
+	Query: "MVZ 208025" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Myrmecophaga" ; Times: 1
+	Query: "99162" ; Times: 2
+	Query: "specificepithet:sechurae genus:Pseudalopex" ; Times: 1
+	Query: "chaetophractus" ; Times: 3
+	Query: "24679" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo) institutioncode:MVZ" ; Times: 1
+	Query: "block island specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "155094" ; Times: 1
+	Query: "Microtus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "&#34;Lepus americanus&#34; stateprovince: Michigan preparations:skin" ; Times: 4
+	Query: "genus:zaedyus preparations:skeleton" ; Times: 11
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 1
+	Query: "genus:Metachirus country:&#34;brazil&#34; institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:203743 institutioncode:MVZ" ; Times: 2
+	Query: "16129" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "436434" ; Times: 2
+	Query: "MVZ 208026" ; Times: 2
+	Query: "MVZ 208029" ; Times: 1
+	Query: "MVZ 208028" ; Times: 2
+	Query: "genus:dasyprocta institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929 institutioncode:MVZ" ; Times: 1
+	Query: "130313" ; Times: 1
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "vntype:specimen specificepithet:lotor genus:procyon county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "specificepithet:nuttallii genus:sylvilagus institutioncode:MVZ" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "locality:ranch county:&#34;monterey&#34; year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "13038" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:Ursus family:Ursidae (skull OR skeleton)" ; Times: 1
+	Query: "vntype:specimen genus:leopardus institutioncode:MVZ" ; Times: 1
+	Query: "Tamias speciosus distance(location,geopoint(33.713912333593996,-116.65924072265625))&lt;16074" ; Times: 1
+	Query: "order:Monotremata" ; Times: 1
+	Query: "catalognumber:71419 institutioncode:MVZ" ; Times: 3
+	Query: "Aberdeen" ; Times: 1
+	Query: "Phyllomys pattoni" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 2
+	Query: "genus:rattus locality:anacapa island stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes institutioncode:MVZ" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "Charles Lamb" ; Times: 1
+	Query: "MVZ 208097" ; Times: 2
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 202249" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1920 year &lt;= 1929 institutioncode:MVZ" ; Times: 1
+	Query: "Tamias bulleri" ; Times: 1
+	Query: "genus:madoqua institutioncode:MVZ" ; Times: 1
+	Query: "89930" ; Times: 1
+	Query: "admiralty island specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "admiralty specificepithet:pennsylvanicus genus:microtus institutioncode:MVZ" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; (Microtus)" ; Times: 4
+	Query: "24926" ; Times: 1
+	Query: "mustela nigripes" ; Times: 130
+	Query: "tolypeutes" ; Times: 1
+	Query: "MVZ 208098" ; Times: 2
+	Query: "8 mi NE Bakersfield" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2000 year &lt;= 2009 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "genus:auliscomys stateprovince:&#34;ancash&#34;" ; Times: 1
+	Query: "vntype:specimen genus:viverra institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 202250" ; Times: 2
+	Query: "Samar Philippines" ; Times: 1
+	Query: "MVZ 202252" ; Times: 2
+	Query: "genus:neotomys stateprovince:&#34;ancash&#34;" ; Times: 1
+	Query: "class:Mammalia locality:Margarita Island" ; Times: 1
+	Query: "MVZ 196029" ; Times: 2
+	Query: "MVZ 196028" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 207857" ; Times: 3
+	Query: "Uzbekistan" ; Times: 1
+	Query: "Ochotona hyperborea" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Parascalops country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:merriami parvus county:&#34;riverside&#34;" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys simonsi " ; Times: 1
+	Query: "aonyx capensis" ; Times: 1
+	Query: "Dephomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:odocoileus institutioncode:MVZ" ; Times: 3
+	Query: "126440" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:161803 institutioncode:MVZ" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Michigan OR Minnesota OR Wisconsin preparations:skin" ; Times: 1
+	Query: "149959" ; Times: 1
+	Query: "San Diego Zoo Mammalia" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;United States&#34; (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929 institutioncode:MVZ" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "Elephantidae" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Mustela frenata" ; Times: 2
+	Query: "spilogale angustifrons" ; Times: 1
+	Query: "Dendrolagus matschie" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1990 year &lt;= 1999 institutioncode:MVZ" ; Times: 1
+	Query: "Nycteris tragata" ; Times: 3
+	Query: "specificepithet:lupus stateprovince:&#34;Oregon&#34; institutioncode:MVZ" ; Times: 1
+	Query: "tadarida brasiliensis cynocephala" ; Times: 1
+	Query: "MVZ 219517" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "locality:san andreas lake" ; Times: 1
+	Query: "black footed ferret" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 2
+	Query: "pudu puda" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:SODALIS genus:MYOTIS class:MAMMALIA" ; Times: 1
+	Query: "vntype:specimen genus:meles institutioncode:MVZ" ; Times: 1
+	Query: "195163" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 2
+	Query: "Myotis leibii skull" ; Times: 1
+	Query: "catalognumber:176022 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:palustris genus:sylvilagus institutioncode:MVZ" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "306555" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1970 year &lt;= 1979 institutioncode:MVZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Histiotus montanus " ; Times: 3
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Michigan&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 1
+	Query: "genus:calomys stateprovince:&#34;ancash&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Aegialomys galapagoensis " ; Times: 2
+	Query: "18318" ; Times: 1
+	Query: "Echimys chrysurus" ; Times: 2
+	Query: "vntype:specimen specificepithet:latrans genus:canis institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:Sorellus genus:Calomys stateprovince:&#34;Ancash&#34;" ; Times: 1
+	Query: "locality:pilarcitos lake county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "mazama temama" ; Times: 4
+	Query: "MVZ 199143" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 3
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Minnesota preparations:skin" ; Times: 3
+	Query: "vntype:specimen genus:hippocamelus institutioncode:MVZ" ; Times: 1
+	Query: "genus:Parascalops stateprovince:&#34;West Virginia&#34;" ; Times: 3
+	Query: "MVZ 186299" ; Times: 2
+	Query: "thylamys tatei" ; Times: 1
+	Query: "Riparia riparia mappable:1" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; preparations: &#34;skin&#34;" ; Times: 1
+	Query: "mammalia Santa Catarina" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "233675" ; Times: 1
+	Query: "Galea spixii" ; Times: 1
+	Query: "family:felidae order:carnivora stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "Bluejay" ; Times: 1
+	Query: "Tamias speciosus distance(location,geopoint(33.713912333593996,-116.65924072265625))&lt;100000" ; Times: 1
+	Query: "skull vntype:specimen specificepithet:cinereoargenteus genus:Urocyon institutioncode:MVZ" ; Times: 5
+	Query: "locality:San Mateo Creek county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen genus:galictis institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "locality:sweeney institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:intermedius genus:Phenacomys stateprovince:&#34;Wyoming&#34;" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis institutioncode:MVZ" ; Times: 1
+	Query: "Dorcopsulus vanheurni" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "Orcinus" ; Times: 2
+	Query: "29686" ; Times: 1
+	Query: "locality:Ootacamund" ; Times: 1
+	Query: "sordidus australia" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1910 year &lt;= 1919 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:chama genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "12781" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959 institutioncode:MVZ" ; Times: 1
+	Query: "234277" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "turtle distribution" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "skull vntype:specimen genus:vulpes institutioncode:MVZ" ; Times: 1
+	Query: "10046" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 3
+	Query: "vntype:specimen specificepithet:elaphus genus:cervus institutioncode:MVZ" ; Times: 1
+	Query: "class:mammalia recordedby:grinnell year &gt;= 1910 year &lt;= 1910 month &gt;= 2 month &lt;= 5 institutioncode:MVZ" ; Times: 1
+	Query: "locality:mill valley county:&#34;marin&#34; year &gt;= 1920 year &lt;= 1947" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "country:&#34;kenya&#34; (Masai Mara river)" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:swinderianus genus:thryonomys" ; Times: 1
+	Query: "MVZ 200988" ; Times: 2
+	Query: "caenolestes" ; Times: 1
+	Query: "myotis sodalis" ; Times: 2
+	Query: "catalognumber:174829 institutioncode:MVZ" ; Times: 2
+	Query: "Hunter Island" ; Times: 1
+	Query: "Washington vntype:specimen specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:sylvilagus institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:202381 institutioncode:MVZ" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "Canis latrans specificepithet:Latrans genus:Canis institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2000 year &lt;= 2009 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "Maxomys" ; Times: 2
+	Query: "MVZ 202258" ; Times: 2
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Michigan&#34; preparations:skin" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Wisconsin OR Michigan preparations:skin" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "100529" ; Times: 1
+	Query: "locality:fish lake county:&#34;nye&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:chama genus:vulpes institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "12513" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gymnocercus genus:Pseudalopex family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil )" ; Times: 1
+	Query: "genus:Hydrodamalis preparations:Skull" ; Times: 1
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; recordedby:coleman" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Aconaemys porteri" ; Times: 1
+	Query: "215593" ; Times: 1
+	Query: "15899" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 9
+	Query: "vntype:specimen genus:martes institutioncode:MVZ" ; Times: 3
+	Query: "26817" ; Times: 2
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "catalognumber:137266 institutioncode:MVZ" ; Times: 1
+	Query: "Assam" ; Times: 1
+	Query: "specificepithet:gymnocercus genus:Pseudalopex (skull OR skeleton) AND (NOT captive OR zoo)" ; Times: 1
+	Query: "vntype:specimen genus:madoqua institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939 institutioncode:MVZ" ; Times: 1
+	Query: "(Mallory)" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "MVZ 202235" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 2
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "locality:san andreas lake county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 3
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:chama genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "MVZ 208081" ; Times: 2
+	Query: "specificepithet:culpaeus genus:Pseudalopex (skull OR skeleton) AND (NOT captive NOT zoo)" ; Times: 1
+	Query: "c 5862" ; Times: 1
+	Query: "vntype:specimen specificepithet:californicus genus:lepus institutioncode:MVZ" ; Times: 2
+	Query: "MVZ 208085" ; Times: 2
+	Query: "MVZ 208084" ; Times: 2
+	Query: "chiropodomys" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "(Mara river)" ; Times: 4
+	Query: "genus:Marmota stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 214801" ; Times: 1
+	Query: "genus:atherurus hastissue:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:MVZ" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Dipodomys stephensi" ; Times: 1
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; recordedby:snyder" ; Times: 1
+	Query: "201475" ; Times: 1
+	Query: "158958" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis (California OR Nevada OR Arizona OR New Mexico OR Utah OR Texas OR Kansas OR Oklahoma OR Colorado OR Wyoming OR Nebraska) year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "Cuniculus paca colombia" ; Times: 2
+	Query: "Globicephala macrorhynchus" ; Times: 2
+	Query: "Proechimys steerei" ; Times: 3
+	Query: "vntype:specimen specificepithet:arctos genus:ursus institutioncode:MVZ" ; Times: 1
+	Query: "breweri specificepithet:pennsylvanicus genus:microtus institutioncode:MVZ" ; Times: 1
+	Query: "locality:hillsborough county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "nelsoni kern" ; Times: 4
+	Query: "MVZ 208027" ; Times: 2
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon county:&#34;Santa Barbara&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "Natividad" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Michigan&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "vntype:specimen genus:procyon institutioncode:MVZ" ; Times: 2
+	Query: "MVZ 202246" ; Times: 2
+	Query: "specificepithet:rufescens genus:Ochotona  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 2
+	Query: "MVZ 202243" ; Times: 2
+	Query: "Juliomys" ; Times: 3
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "&#34;Nevado de Colima&#34;" ; Times: 1
+	Query: "miniopterus tristis tissue" ; Times: 2
+	Query: "MVZ 207863" ; Times: 2
+	Query: "pudu pudu" ; Times: 2
+	Query: "56062" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:griseus genus:Pseudalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "genus:Caluromys country:&#34;Brazil&#34; institutioncode:MVZ" ; Times: 1
+	Query: "genus:chaetophractus preparations:skeleton" ; Times: 13
+	Query: "class:Mammalia recordedby:Annie M. Alexander institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;United States&#34; (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1930 year &lt;= 1939 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen genus:melogale institutioncode:MVZ" ; Times: 1
+	Query: "Tylomys" ; Times: 1
+	Query: "catalognumber:235317 institutioncode:MVZ" ; Times: 2
+	Query: "Microtus richardsoni" ; Times: 3
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "genus:dolichotis institutioncode:MVZ" ; Times: 1
+	Query: "Mesomys hispidus brazil" ; Times: 1
+	Query: "specificepithet:transitionalis genus:sylvilagus institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen genus:sylvicapra institutioncode:MVZ" ; Times: 1
+	Query: "100446" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 4
+	Query: "MVZ 202236" ; Times: 2
+	Query: "MVZ 202234" ; Times: 2
+	Query: "20055" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus institutioncode:MVZ" ; Times: 1
+	Query: "county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 977 download events in this period)
+Total number of records downloaded: 16051
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 51
+	Country: Chile ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: Peru ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-21 ; Times: 3
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 6
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 7
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-24 ; Times: 7
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 4
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 9
+	Date: 2018-07-16 ; Times: 7
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-30 ; Times: 7
+	Date: 2018-07-19 ; Times: 7
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 2
+	Query: "Chihuahua" ; Times: 1
+	Query: "recordedby:grinnell year &gt;= 1910 year &lt;= 1910 month &gt;= 2 month &lt;= 5 institutioncode:MVZ" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "breweri specificepithet:pennsylvanicus genus:microtus institutioncode:MVZ" ; Times: 1
+	Query: "locality:hillsborough county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "locality:San Mateo Creek county:&#34;San Mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2003 year &lt;= 2018" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "specificepithet:Sorellus genus:Calomys stateprovince:&#34;Ancash&#34;" ; Times: 1
+	Query: "Dipodomys stephensi" ; Times: 1
+	Query: "locality:pilarcitos lake county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "Miniopterus africanus" ; Times: 1
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "Xeronycteris vieirai" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "genus:marmota stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:ammospermophilus stateprovince:&#34;baja california&#34;" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Calomys stateprovince:&#34;Ancash&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "thylamys tatei" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "skull vntype:specimen specificepithet:hemionus genus:Odocoileus institutioncode:MVZ" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 1
+	Query: "locality:san andreas lake county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "Galea spixii" ; Times: 1
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "family:felidae order:carnivora stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "block island specificepithet:pennsylvanicus genus:microtus institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34; institutioncode:MVZ" ; Times: 1
+	Query: "locality:San Mateo Creek county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Canis latrans specificepithet:Latrans genus:Canis institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:Zapus county:&#34;Whatcom&#34;" ; Times: 3
+	Query: "Santa Catarina" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "panthera onca" ; Times: 1
+	Query: "Anoura" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "admiralty specificepithet:pennsylvanicus genus:microtus institutioncode:MVZ" ; Times: 1
+	Query: "Dorcopsulus vanheurni" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "class:Mammalia locality:Margarita Island" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "point reyes national seashore" ; Times: 1
+	Query: "Microtus Californicus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "&#34;lost horse&#34;" ; Times: 1
+	Query: "genus:Metachirus institutioncode:MVZ" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; recordedby:coleman" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:AURICULUS genus:MYOTIS" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Chiroderma improvisum" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
